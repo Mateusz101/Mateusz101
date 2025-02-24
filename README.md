@@ -1,9 +1,10 @@
-# Hi there :))
+# Hi there 🥰
 
 ## About Me
 🎓 Data Science / Data Analysis enthusiast  
 🏫 1st-year Master's student at AGH University of Science and Technology  
-📍 Tarnów / Kraków, Poland  
+📍 Tarnów / Kraków, Poland
+🤵 ISTJ/ESTJ personality
 
 ## 🔍 Interests
 - Machine Learning & Data Science 📊
@@ -22,7 +23,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 
 ## 🎭 Hobbies

@@ -12,7 +12,7 @@
 - Python, SQL, and R for data processing 🐍
 
 ## 📫 Connect with Me
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/mateusz-strojek-182441270/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

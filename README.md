@@ -9,7 +9,7 @@
 ## 🔍 Interests
 - Machine Learning & Data Science 📊
 - Data Visualization 📈
-- Python, SQL, and R for data processing 🐍
+- Python, SQL, and R 🐍
 
 ## 📫 Connect with Me
 <p>

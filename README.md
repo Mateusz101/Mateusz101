@@ -1,13 +1,12 @@
 # Hi there 🥰
 
 ## About Me
-🎓 Data Science / Data Analysis enthusiast  
-🏫 1st-year Master's student at AGH University of Science and Technology  
+🎓 Data enthusiast  
+🏫 2nd-year Master's student at AGH University of Science and Technology  
 📍 Tarnów / Kraków, Poland                                                                                                                                                                                    
-🤵 ISTJ/ESTJ personality
 
 ## 🔍 Interests
-- Machine Learning & Data Science 📊
+- Data Science & Finance 📊
 - Data Visualization 📈
 - Python, SQL, and R 🐍
 

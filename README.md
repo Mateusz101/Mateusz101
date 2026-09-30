@@ -2,7 +2,7 @@
 
 ## About Me
 🎓 Data enthusiast  
-🏫 2nd-year Master's student at AGH University of Science and Technology  
+🏫 Graduate of AGH University of Science and Technology  
 📍 Tarnów / Kraków, Poland                                                                                                                                                                                    
 
 ## 🔍 Interests
